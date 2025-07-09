@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # 🏥 Smart and Secured Healthcare Network
 
@@ -84,8 +83,8 @@ The network includes:
 
 | Name                | SRN          |
 | ------------------- | ------------ |
-| Prashant Uppar      | 02FE22BCS069 |
 | Chandni Kumari      | 02FE22BCS026 |
+| Prashant Uppar      | 02FE22BCS069 |
 | Pratiksha Angadi    | 02FE22BCS071 |
 | Swapnil Shahapurkar | 02FE22BCS163 |
 
@@ -111,8 +110,5 @@ The network includes:
 ## 📨 Contact
 
 For queries or collaborations, reach out at:
-📧 `prashantuppar618@gmail.com`
-=======
-# smart_and_secured_healthcare_network
-Mini Project (Domain- Networking)
->>>>>>> 43c0e2682acac9449670d8f5d24a3a30df8148f9
+📧 `kumarichandni792003@gmail.com`
+
