@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🏥 Smart and Secured Healthcare Network
 
@@ -111,3 +112,7 @@ The network includes:
 
 For queries or collaborations, reach out at:
 📧 `prashantuppar618@gmail.com`
+=======
+# smart_and_secured_healthcare_network
+Mini Project (Domain- Networking)
+>>>>>>> 43c0e2682acac9449670d8f5d24a3a30df8148f9
